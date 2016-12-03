@@ -1,0 +1,2 @@
+# AndroidCleanRecyclerView
+Simple RecyclerView Activity
